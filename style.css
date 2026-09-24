@@ -1,0 +1,18 @@
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table {
+    text-align: left;
+}
+
+.websitey {
+    text-align: left;
+    float: left;
+}
+
+.email {
+    text-align: right;
+    float: right;
+}
